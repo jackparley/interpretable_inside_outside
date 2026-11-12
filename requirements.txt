@@ -1,0 +1,7 @@
+# Initial dependencies identified in source; versions not yet pinned
+torch
+numpy
+matplotlib
+scikit-learn
+scipy
+jupyter
