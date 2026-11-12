@@ -190,3 +190,5 @@ Parts of the training infrastructure were adapted from
 [Small Language Modelling](https://github.com/fracagnetta/small-language-modelling)
 and retain their original copyright and license notice in
 [third_party/licenses/small-language-modelling-LICENSE](third_party/licenses/small-language-modelling-LICENSE).
+
+All Transformer results reported in the paper use **last-token prediction with learned absolute positional embeddings**. Autoregressive training and RoPE are supported as optional extensions but were not used in the reported experiments.
