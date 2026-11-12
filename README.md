@@ -169,6 +169,15 @@ Only open `.pkl` and PyTorch `.pt` files from trusted sources. Both can involve 
 }
 ```
 
+## Acknowledgments
+
+Parts of the Transformer training infrastructure were adapted from
+[Small Language Modelling](https://github.com/fracagnetta/small-language-modelling)
+by Francesco Cagnetta.
+
+The original MIT copyright and license notice is preserved in
+[`third_party/licenses/small-language-modelling-LICENSE`](third_party/licenses/small-language-modelling-LICENSE).
+
 ## License
 
 A software license has **not yet been selected**. Add an explicit `LICENSE` file before public release if you wish to grant others permission to reuse and modify the code. Review any inherited third-party code and its license obligations first.
